@@ -15,3 +15,4 @@ This report show :
   - Population Measure = SUM(countries[Population])
   - Area Measure = SUM(countries[Area])
   - Population Density = DIVIDE([Population measure], [Area measure],"Dax is measure")
+![img1](https://user-images.githubusercontent.com/55878755/156630406-64512eed-61ac-4538-995f-7a1b6bcb63e2.png)
