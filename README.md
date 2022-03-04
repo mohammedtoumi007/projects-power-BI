@@ -27,3 +27,10 @@ Analyzing and Visualizing Data with Power BI
   - Sports Analytics and Global Economic Indicators : Sports Analytics basketball between year 2010 => 2018
   - file datasets : https://drive.google.com/drive/folders/19CKgU5DIv17se1DU6oPoJQB2NvP6A82e
 ![img1](https://user-images.githubusercontent.com/55878755/156830878-55297026-ea5e-4aa1-8298-3c2f96d5de3b.png)
+
+  - Power BI Pivot and Unpivot | Data Modeling
+  - Power BI Granularity and Relationships
+  - Third Party Visuals
+  - Visualizing Global Economic Indicators
+  - Calculating Growth Rates : DAX
+  
