@@ -35,4 +35,7 @@ Analyzing and Visualizing Data with Power BI
   - Calculating Growth Rates : DAX
 ![img2](https://user-images.githubusercontent.com/55878755/156831604-bc4b9dbc-3daf-4d46-b63f-471304ace1ca.png)
 ![img3](https://user-images.githubusercontent.com/55878755/156831707-f54e0a73-9551-469f-89e2-a4b4a21059a3.png)
+
+  - Hierarchies & Drill Up Drill Down
+
   
