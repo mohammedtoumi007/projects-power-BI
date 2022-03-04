@@ -16,3 +16,13 @@ Analyzing and Visualizing Data with Power BI
   - Area Measure = SUM(countries[Area])
   - Population Density = DIVIDE([Population measure], [Area measure],"Dax is measure")
 ![img1](https://user-images.githubusercontent.com/55878755/156630406-64512eed-61ac-4538-995f-7a1b6bcb63e2.png)
+
+## Project 2 :
+  - Power BI Data Types, Split Columns, and Merge Columns
+  - Merge Queries, Column Profiling | Data Modeling 
+  - Defining Our Measures
+  - Power BI Sync Slicers and Scatter Charts
+  - Grouping, Card Visuals, and Conditional Formatting 
+### This report show : 
+  - Sports Analytics and Global Economic Indicators : Sports Analytics basketball between year 2010 => 2018
+  - file datasets : https://drive.google.com/drive/folders/19CKgU5DIv17se1DU6oPoJQB2NvP6A82e
