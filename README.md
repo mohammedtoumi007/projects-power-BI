@@ -33,4 +33,5 @@ Analyzing and Visualizing Data with Power BI
   - Third Party Visuals
   - Visualizing Global Economic Indicators
   - Calculating Growth Rates : DAX
+![img2](https://user-images.githubusercontent.com/55878755/156831604-bc4b9dbc-3daf-4d46-b63f-471304ace1ca.png)
   
