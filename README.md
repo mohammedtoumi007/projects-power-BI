@@ -9,7 +9,7 @@ Analyzing and Visualizing Data with Power BI
   - Power BI Filters Pane
   - Power BI Slicers
   - Exploring Power BI Report
-## This report show : 
+### This report show : 
   - Population bu Continent
   - Population Density By Country and Continent
   - Population Measure = SUM(countries[Population])
